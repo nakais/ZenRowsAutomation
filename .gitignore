@@ -1,0 +1,14 @@
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Logs and Reports
+*.log
+*.out
+*.allure/
+*.html
