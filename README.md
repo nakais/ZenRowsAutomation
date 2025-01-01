@@ -49,6 +49,9 @@ Run the script:
 ```bash
 python zenrows_test.py
 ```
+## Recorded Video
+A complete project walkthrough can be found in the video recorded on Loom:
+https://www.loom.com/share/d103ef31a8344e739bba18d63280d91e?sid=7ef76639-93e7-4b47-b395-4150ea600b23
 
 ## Troubleshooting
 - Check ChromeDriver compatibility with your Chrome version.
